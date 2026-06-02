@@ -332,8 +332,8 @@ Dashboard / Histórico
 
 ## Integrantes
 
-- Italo Cesar de Oliveira Mazzucatto [text](https://github.com/ItsMazzu)
-- Laís Campos Martins Da Laís: [text](https://github.com/laiscampos1)
+- Italo Cesar de Oliveira Mazzucatto [Github](https://github.com/ItsMazzu)
+- Laís Campos Martins Da Laís: [Github](https://github.com/laiscampos1)
 - Roberto Henrique dos Santos
 
 ---
